@@ -667,4 +667,7 @@
 
     <!-- Default state for LiveDisplay -->
     <bool name="config_defaultCABC">true</bool>
+
+    <!-- Determines whether the shell features all run on another thread. -->
+    <bool name="config_enableShellMainThread">true</bool>
 </resources>
