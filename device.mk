@@ -114,6 +114,7 @@ PRODUCT_BOARD_PLATFORM := msmnile
 # Camera
 PRODUCT_PACKAGES += \
     vendor.xiaomi.hardware.motor@1.0.vendor \
+    Aperture \
     libdng_sdk.vendor \
     libshim_megvii \
     libstdc++.vendor \
