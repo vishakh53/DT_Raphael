@@ -194,8 +194,7 @@ PRODUCT_COPY_FILES += \
 
 # FM
 PRODUCT_PACKAGES += \
-    FM2 \
-    qcom.fmradio
+    RevampedFMRadio
 
 # F2FS
 PRODUCT_PACKAGES += \
